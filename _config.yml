@@ -23,10 +23,10 @@ repository               : "wenbin-lu/wenbin-lu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wenbin.png"
+  avatar           : "wenbin.PNG"
   name             : "Wenbin Lu"
   pronouns         : 
-  bio              : "An undergraduate student studying both **Computer Science** and **Mathematics**."
+  bio              : "An undergraduate student studying both Computer Science and Mathematics."
   location         : "Hangzhou,Zhejiang"
   employer         : 
   uri              : 

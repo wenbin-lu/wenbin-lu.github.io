@@ -1,7 +1,7 @@
 ---
 title: "Solving Partial Differential Equations via Radon Neural Operator"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/radon-neural-operator
 excerpt: "A discretization-invariant, angle-aware Radon Neural Operator for PDE solving that achieves state-of-the-art performance."
 date: 2025-09-18
